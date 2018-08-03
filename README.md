@@ -24,5 +24,5 @@ This repository includes the following projects:
 
 3. Housing.ipynb: 
    Use public data set, perform data set cleaning, dataset analysis, feature selection,
-   and run Linear Regression to predict the house price.
+   and run Linear Regression and K fold cross validation to get final optimal predict value.
    More descriptions are in the top cell of the Jupyter Notebook.
